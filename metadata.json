@@ -1,0 +1,5 @@
+{
+  "name": "La Palabra de Dios - Buscador Bíblico",
+  "description": "An elegant web application to search for and explore Bible verses. It features a verse of the day, themed verse collections, a powerful search functionality, and background worship music to create a serene experience.",
+  "requestFramePermissions": []
+}
